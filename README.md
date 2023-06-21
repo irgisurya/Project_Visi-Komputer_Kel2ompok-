@@ -1,4 +1,5 @@
 # Project_Visi-Komputer_Kelompok-2
+#Judul:  "Sistem deteksi kelelahan pada wajah mahasiswa pada   saat     perkuliahan dengan menggunakan visi komputer berbasis OpenCV"
 **Python packages required:**
 * cvzone 1.5.6
 * mediapipe 0.8.9.1
