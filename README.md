@@ -11,3 +11,7 @@
 - Select Tools -> Board -> Arduino/Genuino Uno
 - Select Tools -> Port -> *choose your port COM*
 - Upload
+
+
+https://github.com/irgisurya/Project_Visi-Komputer_Kelompok-2/assets/125943898/690012f3-2728-4708-bf1e-670346242a68
+
